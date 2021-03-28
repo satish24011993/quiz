@@ -63,7 +63,7 @@ mkvirtualenv quiz -a "$(pwd)" -p python3.6
 
 ```bash
 ## Activate the virtualenv which you created on the last step
-workon quiz
+cd quiz
 pip install -r requirements.txt
 ```
 
