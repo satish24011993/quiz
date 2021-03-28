@@ -38,7 +38,7 @@ Dependenciies:
 
 - Python 3.6.x
 - Django 1.11.x
-- MySQL 5.7.x
+- MySQL 5.7.x/ sqlite
 - Ubuntu 17.04 or later
 
 #### 1. Clone this repoistory
